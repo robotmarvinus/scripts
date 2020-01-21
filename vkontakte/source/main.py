@@ -4,8 +4,8 @@ from vk.token import *
 from vk.users import *
 from vk.photos import *
 
-vk_token        = "ea01d0aca61981ecfcdee53e592e881bf1a6d621b604cc9db1edff3c6828634c7e4f4022eebed197f9c6a"
-vk_user_id      = "522142542"
+vk_token        = "..."
+vk_user_id      = "..."
 
 vk_user_info    = vk_get_user_info(vk_token, vk_user_id)
 print(vk_user_info)
