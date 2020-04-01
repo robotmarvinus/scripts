@@ -13,6 +13,7 @@
 
 #chrome
 #set default browser
+
 #set system window
 #disable tabs hover titles
 #chrome://flags/#tab-hover-cards disable
