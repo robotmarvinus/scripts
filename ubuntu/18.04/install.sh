@@ -7,7 +7,7 @@ sudo apt-get remove --purge libreoffice*
 sudo apt-get purge thunderbird* remmina* gnome-todo gnome-calendar cheese gnome-mahjongg gnome-sushi gnome-sudoku gnome-taquin gnome-tetravex gnome-robots gnome-chess gnome-mines aisleriot mahjongg ace-of-penguins gnomine gbrainy lightsoff swell-foop quadrapassel
 
 #-----package------
-sudo apt install git snapd
+sudo apt install git snapd synaptic
 
 #-----browser------
 sudo apt install chromium-browser
@@ -61,15 +61,11 @@ sudo apt install libgtk-3-dev libappindicator3-dev libgee-0.8* sqlite3 libsqlite
 #-----settings--------
 sudo apt install gnome-tweaks gnome-tweak-tool gconf-editor
 #chrome-gnome-shell
-#sudo apt-get install dconf-editor
 
 #-----downloaders-----
 #sudo apt install transmission uget
 
 #-----skype------------
 #sudo snap install skype --classic
-
-#-----packages---------
-sudo apt-get install synaptic
 
 
